@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "app-sistema-estacionamiento-client-side-solution",
+    "id": "4604fd43-55a9-45b6-a144-ffb4f50bada3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/app-sistema-estacionamiento.sppkg"
+  }
+}
